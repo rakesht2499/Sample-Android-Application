@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pieces">
+        <item>Dindigul Biryani</item>
+        <item>Ambur Biryani</item>
+        <item>Hyderabadi Biryani</item>
+        <item>Mughlai Biryani</item>
+        <item>Malabar Biryani</item>
+        <item>Lucknowi Biryani</item>
+    </string-array>
+    <string-array name="description">
+        <item>Dindigul Biryani is an ever-popular dish that can be found at several outlets across Chennai. It is strong and tangy in flavour, which is derived from curd and lemon, mixed with cube-sized meat (mutton or chicken) and jeera samba rice. Also, a lot of pepper is used to give it a full-on zesty flavour.</item>
+        <item>Ambur Biryani is an unmissable travelling experience in itself when visiting Tamil Nadu. Like other variations of biryani, this one also has meat (chicken or mutton), but what makes it different is the way the meat is prepared. The meat is soaked in curd and flavoured with coriander and mint, and then added to the cooked Seeraga samba rice, along with other spices. Savouring it with brinjal curry, ennai kathirikai, is every biryani-lover’s delight.</item>
+        <item>Pakki (cooked) and Kacchi (raw). The Pakki Hyderabadi Biryani involves cooking of basmatic rice and meat separately and then layering them together. While the kacchi Hyderabadi Biryani is made from the raw marinated meat (chicken or lamb) placed between the layers of basmati rice infused with saffron, onions and dried fruits, both are slow-cooked in a dough-sealed earthen pot over charcoal fire, which results in rich, aromatic and punchy biryani.</item>
+        <item>Mughlai biryani is an innovation from the kitchens of the Mughal empire. The Persian kings brought with them the unique recipe of cooking meat and rice in rich spices. In modern India, you will find the best Mughlai biryani in Delhi and neighbouring areas.</item>
+        <item>Malabar biryani is mostly prepared on the coasts of Kerala. This biryani has very little spice and is cooked with meat that is first deep fried.</item>
+        <item>Lucknow is the city of Nawabs who preferred a slightly milder palate. The Lucknowi biryani has remarkably less amount of spices as compared to the Mughlai variety of biryani.</item>
+    </string-array>
+</resources>
